@@ -21,3 +21,7 @@ The gol is mosaic creation through the stitching of aerial rectified images obta
 | opencv-python| == 3.4.2.17  | Yes
 | opencv-contrib-python  | == 3.4.2.17  |Yes |
 | os  | -  |Yes |
+
+
+## To run
+
