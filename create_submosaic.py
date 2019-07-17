@@ -5,6 +5,7 @@ import os
 from math import *
 from numpy import linalg
 import imutils
+from PIL import Image
 
 
 #Setting directory
