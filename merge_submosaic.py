@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import os
 from math import *
 from numpy import linalg
+from PIL import Image
 
 def merge_submosaic(img1, img2, mosaic1, mosaic2):
     MIN_MATCH_COUNT = 4
