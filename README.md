@@ -23,16 +23,6 @@ $ python3 create_submosaic.py
 $ python3 merge_submosaic.py
 ```
 
-### Requirements
-| Software  | Version | Required|
-| ------------- | ------------- |  ------------- |
-| Python | >= 3.5  | Yes    |
-| Numpy  | Tested on 1.13 |    Yes     |
-| Matplotlib  | >= 1.0  | Yes   |
-| opencv-python| == 3.4.2.17  | Yes
-| opencv-contrib-python  | == 3.4.2.17  |Yes |
-| os  | -  |Yes |
-
 ### Submosaics
 #### Results
 First submosaic               |  Second submosaic
@@ -45,4 +35,13 @@ First submosaic + second submosaic
 :-------------------------:
 ![](https://github.com/AlessandroMinervini/Mosaic-creation-through-the-stitching-of-aerial-rectified-images-obtained-from-a-moving-vehicle/blob/master/readme_images/merge_submosaic.jpg)
 
+### Requirements
+| Software  | Version | Required|
+| ------------- | ------------- |  ------------- |
+| Python | >= 3.5  | Yes    |
+| Numpy  | Tested on 1.13 |    Yes     |
+| Matplotlib  | >= 1.0  | Yes   |
+| opencv-python| == 3.4.2.17  | Yes
+| opencv-contrib-python  | == 3.4.2.17  |Yes |
+| os  | -  |Yes |
 
