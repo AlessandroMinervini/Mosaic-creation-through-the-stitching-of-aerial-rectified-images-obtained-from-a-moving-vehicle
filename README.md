@@ -6,10 +6,11 @@ The gol is mosaic creation through the stitching of aerial rectified images obta
 ### Dataset
 Stuttgart of Kitti (https://cityscapes-dataset.com/downloads/), in particular leftImg8bit_demoVideo (https://drive.google.com/open?id=1GrhTcMOxjPN-Ei-k9IoUW1TAGNXe-ktn).
 You can put the frames to processing into the folder dataset.
+To compute correctly the rectified images, use the right camera info into the MATLAB script (camera.json for stuttgart https://drive.google.com/open?id=1tDMvRqau5c_hhBb1UioJgK9GP6kyJfgM).
 
 ### Pipeline
 1. Cars detection
-2. Rectification
+2. Rectification 
 3. Keypoints detections with SURF
 4. Compute matrix Homography
 5. Image warping
@@ -18,7 +19,11 @@ You can put the frames to processing into the folder dataset.
 ### To run
 ```
 $ python3 car_detection.py
-compute_bird_view.m
+```
+
+To compute the rectified images run on MATLAB the script: compute_bird_view.m
+
+```
 $ python3 create_submosaic.py
 $ python3 merge_submosaic.py
 ```
