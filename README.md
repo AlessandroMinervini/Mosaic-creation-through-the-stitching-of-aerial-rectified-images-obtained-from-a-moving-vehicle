@@ -1,10 +1,10 @@
 # Mosaic creation through the stitching of aerial rectified images obtained from a moving vehicle
 
-## Goal
+### Goal
 The gol is mosaic creation through the stitching of aerial rectified images obtained from a moving vehicle.
 
-## Pipeline
-1. Car detection
+### Pipeline
+1. Cars detection
 2. Rectification
 3. Keypoints detections with SURF
 4. Compute matrix Homography
@@ -12,7 +12,7 @@ The gol is mosaic creation through the stitching of aerial rectified images obta
 6. Overlap to mosaic creation
 
 
-## Requirements
+### Requirements
 | Software  | Version | Required|
 | ------------- | ------------- |  ------------- |
 | Python | >= 3.5  | Yes    |
@@ -23,5 +23,5 @@ The gol is mosaic creation through the stitching of aerial rectified images obta
 | os  | -  |Yes |
 
 
-## To run
+### To run
 
