@@ -1,7 +1,7 @@
 # Mosaic creation through the stitching of aerial rectified images obtained from a moving vehicle
 
 ### Goal
-The gol is mosaic creation through the stitching of aerial rectified images obtained from a moving vehicle.
+Mosaic creation through the stitching of aerial rectified images obtained from a moving vehicle.
 
 ### Dataset
 Stuttgart of Kitti (https://cityscapes-dataset.com/downloads/), in particular leftImg8bit_demoVideo (https://drive.google.com/open?id=1GrhTcMOxjPN-Ei-k9IoUW1TAGNXe-ktn).
