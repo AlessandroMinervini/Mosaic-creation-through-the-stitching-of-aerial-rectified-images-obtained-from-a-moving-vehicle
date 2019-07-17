@@ -21,7 +21,10 @@ To compute correctly the rectified images, use the right camera info into the MA
 $ python3 car_detection.py
 ```
 
-To compute the rectified images run on MATLAB the script: compute_bird_view.m
+To compute the rectified images run on MATLAB the script: 
+```
+compute_bird_view.m
+```
 
 ```
 $ python3 create_submosaic.py
