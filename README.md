@@ -34,7 +34,7 @@ $ python3 merge_submosaic.py
 | os  | -  |Yes |
 
 ### Submosaics
-![](https://github.com/AlessandroMinervini/Mosaic-creation-through-the-stitching-of-aerial-rectified-images-obtained-from-a-moving-vehicle/blob/master/readme_images/submosaic33.jpg)
+![](https://github.com/AlessandroMinervini/Mosaic-creation-through-the-stitching-of-aerial-rectified-images-obtained-from-a-moving-vehicle/blob/master/readme_images/submosaic33.jpg | heigh = 500)
 
 ![](https://github.com/AlessandroMinervini/Mosaic-creation-through-the-stitching-of-aerial-rectified-images-obtained-from-a-moving-vehicle/blob/master/readme_images/submosaic66.jpg)
 
