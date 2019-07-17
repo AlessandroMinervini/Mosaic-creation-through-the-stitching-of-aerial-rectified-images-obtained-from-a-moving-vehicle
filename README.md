@@ -14,13 +14,10 @@ The gol is mosaic creation through the stitching of aerial rectified images obta
 ### To run
 ```
 $ python3 car_detection.py
-$ python3 car_detection.py
-$ python3 car_detection.py
-$ python3 car_detection.py
-
-
+compute_bird_view.m
+$ python3 create_submosaic.py
+$ python3 merge_submosaic.py
 ```
-
 
 ### Requirements
 | Software  | Version | Required|
@@ -32,6 +29,4 @@ $ python3 car_detection.py
 | opencv-contrib-python  | == 3.4.2.17  |Yes |
 | os  | -  |Yes |
 
-
-### To run
 
