@@ -5,7 +5,6 @@ import os
 from math import *
 from numpy import linalg
 
-
 def merge_submosaic(img1, img2, mosaic1, mosaic2):
     MIN_MATCH_COUNT = 4
     threshold = 0.3
@@ -70,7 +69,7 @@ def merge_submosaic(img1, img2, mosaic1, mosaic2):
         if H is None:
             print('Previous H')
             H = Hs[0]
-
+            
         d = np.linalg.det(H)
         d2 = np.linalg.det(H[:1, :1])
         if d > 0.2:
