@@ -4,7 +4,7 @@
 The gol is mosaic creation through the stitching of aerial rectified images obtained from a moving vehicle.
 
 ### Dataset
-Stuttgart of Kitti (https://cityscapes-dataset.com/downloads/), in particular leftImg8bit_demoVideo.
+Stuttgart of Kitti (https://cityscapes-dataset.com/downloads/), in particular leftImg8bit_demoVideo (https://drive.google.com/open?id=1GrhTcMOxjPN-Ei-k9IoUW1TAGNXe-ktn).
 You can put the frames to processing into the folder dataset.
 
 ### Pipeline
@@ -35,7 +35,7 @@ $ python3 merge_submosaic.py
 
 ### Submosaics
 #### Results
-![](https://github.com/AlessandroMinervini/Mosaic-creation-through-the-stitching-of-aerial-rectified-images-obtained-from-a-moving-vehicle/blob/master/readme_images/submosaic33.jpg)
+![](https://github.com/AlessandroMinervini/Mosaic-creation-through-the-stitching-of-aerial-rectified-images-obtained-from-a-moving-vehicle/blob/master/readme_images/submosaic33.jpg) | ![](https://github.com/AlessandroMinervini/Mosaic-creation-through-the-stitching-of-aerial-rectified-images-obtained-from-a-moving-vehicle/blob/master/readme_images/submosaic66.jpg)
 
 ![](https://github.com/AlessandroMinervini/Mosaic-creation-through-the-stitching-of-aerial-rectified-images-obtained-from-a-moving-vehicle/blob/master/readme_images/submosaic66.jpg)
 
