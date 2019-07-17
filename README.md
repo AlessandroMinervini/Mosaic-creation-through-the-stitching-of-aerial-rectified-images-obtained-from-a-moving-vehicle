@@ -3,6 +3,10 @@
 ### Goal
 The gol is mosaic creation through the stitching of aerial rectified images obtained from a moving vehicle.
 
+### Dataset
+Stuttgart of Kitti (https://cityscapes-dataset.com/downloads/), in particular leftImg8bit_demoVideo.
+You can put the frames to processing into the folder dataset.
+
 ### Pipeline
 1. Cars detection
 2. Rectification
@@ -28,5 +32,7 @@ $ python3 merge_submosaic.py
 | opencv-python| == 3.4.2.17  | Yes
 | opencv-contrib-python  | == 3.4.2.17  |Yes |
 | os  | -  |Yes |
+
+### Submosaics
 
 
