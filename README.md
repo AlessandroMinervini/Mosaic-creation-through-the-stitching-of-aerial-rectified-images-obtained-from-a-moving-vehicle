@@ -7,8 +7,9 @@ The gol is mosaic creation through the stitching of aerial rectified images obta
 1. Car detection
 2. Rectification
 3. Keypoints detections with SURF
-4. Image warping
-5. Overlap to mosaic creation
+4. Compute matrix Homography
+5. Image warping
+6. Overlap to mosaic creation
 
 
 ## Requirements
