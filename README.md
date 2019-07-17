@@ -11,6 +11,16 @@ The gol is mosaic creation through the stitching of aerial rectified images obta
 5. Image warping
 6. Overlap to mosaic creation
 
+### To run
+```
+$ python3 car_detection.py
+$ python3 car_detection.py
+$ python3 car_detection.py
+$ python3 car_detection.py
+
+
+```
+
 
 ### Requirements
 | Software  | Version | Required|
