@@ -39,9 +39,8 @@ First submosaic               |  Second submosaic
 :-------------------------:|:-------------------------:
 ![](https://github.com/AlessandroMinervini/Mosaic-creation-through-the-stitching-of-aerial-rectified-images-obtained-from-a-moving-vehicle/blob/master/readme_images/submosaic33.jpg) | ![](https://github.com/AlessandroMinervini/Mosaic-creation-through-the-stitching-of-aerial-rectified-images-obtained-from-a-moving-vehicle/blob/master/readme_images/submosaic66.jpg)
 
-![](https://github.com/AlessandroMinervini/Mosaic-creation-through-the-stitching-of-aerial-rectified-images-obtained-from-a-moving-vehicle/blob/master/readme_images/submosaic66.jpg)
-
 ### Merge submosaics
+#### Results: first submosaic 1 + second submosaic 
 ![](https://github.com/AlessandroMinervini/Mosaic-creation-through-the-stitching-of-aerial-rectified-images-obtained-from-a-moving-vehicle/blob/master/readme_images/merge_submosaic.jpg)
 
 
